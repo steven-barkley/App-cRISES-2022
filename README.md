@@ -1,15 +1,13 @@
+# cRises
+
 ## Design a mobile application that tracks the level of sea rise. 
 
 #### Business Purpose: 
-#####The purpose of the application is to provide real time insight as to the level of flooding to be expected over a given period using increasing data and prediction modelling.
+#####The purpose of the application is to provide real time insight as to the level of flooding to be expected over a given period using increasing data precision and prediction models.
 
 ### Persona: County or Region dwelling near historic or endangered flood regions  
 
-[link] 
-
-# cRises
-
-<img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
+[link] <img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
 
 ![screenshot](screenshot.png)
 
@@ -18,13 +16,6 @@ A so very simple personal site.
 This is a [Fork-n-Go](http://jlord.github.io/forkngo) project, so fork to get started making your own.
 
 See the demo at [jlord.github.io/hello](http://jlord.github.io/hello).
-
-## Create your own
-
-
-| You'll Need:                                   | ☟                                                 |
-| -----------------------------------------------| ------------------------------------------------- |
-| [GitHub](http://www.github.com/join) account | Basic [HTML](http://learn.shayhowe.com/html-css/) |
 
 
 ### First, fork this repository.
